@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "products": [
+    {
+      "id": "series-2",
+      "name": "Series 2",
+      "description": "",
+      "category": "otros",
+      "language": "en",
+      "condition": "sealed",
+      "price": 1100,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "series-3",
+      "name": "Series 3",
+      "description": "",
+      "category": "otros",
+      "language": "en",
+      "condition": "sealed",
+      "price": 1200,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-chaos-rising",
+      "name": "ETB Chaos Rising",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 1600,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-perfect-order",
+      "name": "ETB Perfect Order",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 1500,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-ascended-heroes",
+      "name": "ETB Ascended Heroes",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 3400,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-151",
+      "name": "ETB 151",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 12000,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-pitch-black",
+      "name": "ETB Pitch Black",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 1850,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-phantasmal-flames",
+      "name": "ETB Phantasmal Flames",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 3500,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-mega-evolution-gardevoir",
+      "name": "ETB Mega Evolution Gardevoir",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 3000,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-mega-evolution-mega-lucario",
+      "name": "ETB Mega Evolution Mega Lucario",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 3000,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-black-bolt",
+      "name": "ETB Black Bolt",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 3250,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-white-flare",
+      "name": "ETB White Flare",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 3250,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-temporal-forces",
+      "name": "ETB Temporal Forces",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 3500,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-silver-tempest",
+      "name": "ETB Silver Tempest",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 4800,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-masquerade",
+      "name": "ETB Masquerade",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 3750,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-prismatic-evolutions",
+      "name": "ETB Prismatic Evolutions",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 3500,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-paradox-rift",
+      "name": "ETB Paradox Rift",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 3400,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-obsidian-flames",
+      "name": "ETB Obsidian Flames",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 10800,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-stellar-crown",
+      "name": "ETB Stellar Crown",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 3500,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "etb-journey-together",
+      "name": "ETB Journey Together",
+      "description": "",
+      "category": "etb",
+      "language": "en",
+      "condition": "sealed",
+      "price": 2650,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "booster-bundle-ascended-heroes",
+      "name": "Booster Bundle Ascended Heroes",
+      "description": "",
+      "category": "booster-bundle",
+      "language": "en",
+      "condition": "sealed",
+      "price": 1600,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "booster-box-pitch-black",
+      "name": "Booster Box Pitch Black",
+      "description": "",
+      "category": "booster-box",
+      "language": "en",
+      "condition": "sealed",
+      "price": 4200,
+      "available": true,
+      "image": null
+    },
+    {
+      "id": "booster-bundle-destined-rivals",
+      "name": "Booster Bundle Destined Rivals",
+      "description": "",
+      "category": "booster-bundle",
+      "language": "en",
+      "condition": "sealed",
+      "price": 1800,
+      "available": true,
+      "image": null
+    }
+  ]
+}

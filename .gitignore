@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+*.local
+.vscode
+
+# Datos privados (costos, ganancias): NO subir a un repositorio público
+data/products.private.json
